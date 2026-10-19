@@ -1,0 +1,9 @@
+Warning: skipping row 11: invalid temperature.
+Warning: skipping row 12: missing device_id.
+DEVICE | RECORDS | AVG TEMP | ERRORS
+-------+---------+----------+-------
+DEV_A  | 3       | 47.33    | 1     
+DEV_B  | 3       | 75.00    | 1     
+DEV_D  | 1       | 60.00    | 0     
+
+Saved 3 device summaries to summary.json.
